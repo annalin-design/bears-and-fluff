@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
+body {
+  background: #fff3da;
+}
+
+.container-lg {
+  border-left: 3px solid;
+  border-right: 3px solid;
+  border-color: #764c34;
+}
+
+.border-b {
+  border-bottom: solid 3px;
+  border-color: #764c34;
+}
+
+.border-t {
+  border-top: solid 3px;
+  border-color: #764c34;
+}
+
+.img-border {
+  border: 3px solid #764c34;
+}
+
+.nav-link {
+  font-family: "Pangolin", cursive;
+  color: #764c34;
+  text-decoration: none;
+  font-size: 1.3em;
+}
+
+h1, h2 {
+  font-family: "Pangolin", cursive;
+  color: #764c34;
+}
+
+.thumb-text a {
+  font-family: "Pangolin", cursive;
+  color: #764c34;
+  text-decoration: none;
+  font-size: 0.8em;
+  display: block;
+  border-color: #764c34;
+  border-left: 3px solid;
+  border-right: 3px solid;
+  border-bottom: 3px solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.copyright {
+  font-size: 0.8em;
+}
+
+/*# sourceMappingURL=styles.css.map */
