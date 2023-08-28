@@ -8,11 +8,18 @@ body{
     background:#fff3da;
 }
 
-.container-lg{
+.border-l{
     border-left: $border-width solid;
+    border-color: $primary;
+
+}
+
+.border-r{
     border-right: $border-width solid;
     border-color: $primary;
+
 }
+
 .border-b{
     border-bottom: solid $border-width;
     border-color: $primary;
@@ -39,11 +46,15 @@ h1,h2 {
     color: $primary;
 }
 
+h2{
+    font-size: 1.3em;
+}
+
 .thumb-text a{
     font-family: $font;
     color: $primary;
     text-decoration: none;
-    font-size: 0.8em;
+    font-size: 0.9em;
     display: block;
     border-color:$primary;
     border-left: $border-width solid;

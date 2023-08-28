@@ -1,5 +1,33 @@
 {% include header.html %}
+
 <h1>{{page.title}}</h1>
-  {{ content }}
+
+<div class="row m-5">
+
+  <div class="col-md-5 order-md-2 mt-4">
+    <img src="{{ page.thumb | relative_url }}" class="img-fluid img-border">
+  </div>
+
+
+<div class="col-md-7 order-md-1 mt-4">
+  <h2>Ingredients</h2>
+  <ul>
+    {% for i in page.ingredients %}
+    <li>{{i}}</li>
+    {% endfor %}
+    </ul>
+</div>
+</div>
+
+
+<div class="row m-5">
+  <div class="col">
+    {{ content }}
+  </div>
+  
+</div>
+
+
+  
 {% include footer.html %}
 

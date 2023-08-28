@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Banana Bread
-thumb: assets/images/banana-bread-1.jpg
----
-
-## Ingredients
+thumb: assets/images/banana-bread.jpg
+tags:
+- Bakery
+ingredients:
 - 1.5 cup All Purpose Flour
 - 2 tsp Baking Soda
 - 1 tsp Salt
@@ -15,6 +15,7 @@ thumb: assets/images/banana-bread-1.jpg
 - 4 Bananas
 - Chocolate
 - Walnuts
+---
 
 ## Instructions
 1. Mix flour, baking soda and salt. Set Aside.
