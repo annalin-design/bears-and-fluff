@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Banana Bread
-thumb: ../assets/images/banana-bread-1.jpg
+thumb: assets/images/banana-bread-1.jpg
 ---
 
 ## Ingredients
