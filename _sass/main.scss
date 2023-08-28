@@ -41,7 +41,7 @@ body{
     font-size: 1.3em;
 }
 
-h1,h2 {
+h1,h2, h3 {
     font-family: $font;
     color: $primary;
 }
@@ -49,6 +49,10 @@ h1,h2 {
 h2{
     font-size: 1.3em;
 }
+
+
+
+
 
 .thumb-text a{
     font-family: $font;

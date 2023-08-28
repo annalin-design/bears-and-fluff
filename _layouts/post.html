@@ -15,7 +15,16 @@
     {% for i in page.ingredients %}
     <li>{{i}}</li>
     {% endfor %}
+  </ul>
+
+  {% if page.garnishes and page.garinshes.size != 0 %}
+    <h2>Garnishes</h2>
+    <ul>
+      {% for i in page.garnishes %}
+      <li>{{i}}</li>
+      {% endfor %}
     </ul>
+  {% endif %}
 </div>
 </div>
 
