@@ -8,7 +8,7 @@ thumb: assets/images/banana-bread-1.jpg
 - 1.5 cup All Purpose Flour
 - 2 tsp Baking Soda
 - 1 tsp Salt
-- 1/4 cup Unsalted Butter Room Temp.
+- 1/4 cup Unsalted Butter, Room Temp.
 - 2/3 cup Dark Brown Sugar
 - 1/3 cup Sour Cream or Greek Yogurt
 - 2 Eggs
