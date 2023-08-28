@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beef and Bean Chili
-thumb: assets/images/deafult.jpg
+thumb: assets/images/default.jpg
 tags:
 - Entree
 ingredients:

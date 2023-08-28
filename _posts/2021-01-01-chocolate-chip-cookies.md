@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Chocolate Chip Cookies
-thumb: assets/images/deafult.jpg
+thumb: assets/images/default.jpg
 tags:
 - Bakery
 ingredients:
-- 2¾ cups Flour
+- 400 g Flour
 - 1¼ tsp Baking Soda
 - 1 tsp Salt
-- ¾ cup Butter (softened)
-- ⅔ cup Sugar
-- 1 cup Brown Sugar
+- 200 g Butter (softened)
+- 150 g Granulated Sugar
+- 225 g Brown Sugar
 - 1½ tsp Vanilla Extract
 - 2 Eggs (room temperature)
 - 2 cups Chocolate Chips
