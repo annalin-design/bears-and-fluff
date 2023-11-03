@@ -2,6 +2,8 @@
 layout: post
 title: Chili Ramen
 thumb: assets/images/default.jpg
+tags:
+- Entree
 ingredients:
 - 2 portions Frozen Ramen
 - 3 tbsp Sesame Paste or Peanut Butter

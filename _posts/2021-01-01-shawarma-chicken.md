@@ -4,6 +4,7 @@ title: Shawarma Chicken
 thumb: assets/images/shawarma-chicken.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - 2 lbs Chicken Thighs
 - ¼ cup Oil

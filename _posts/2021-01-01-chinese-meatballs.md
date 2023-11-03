@@ -4,6 +4,7 @@ title: Chinese Meatballs
 thumb: assets/images/chinese-meatballs.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - 1 lb Lean Ground Beef
 - 1 tsp Five Spice

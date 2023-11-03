@@ -4,6 +4,7 @@ title: Gochujang Chicken Breast
 thumb: assets/images/default.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - 2-3 Chicken Breasts
 - 2 tbsp Soy Sauce

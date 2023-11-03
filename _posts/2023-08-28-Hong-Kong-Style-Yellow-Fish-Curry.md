@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Hong Kong Style Yellow Fish Curry
+title: Hong Kong Style Yellow Fishball Curry
 thumb: assets/images/default.jpg
+tags:
+- Entree
 ingredients:
 - 12-15 Frozen Fish or Beef Balls
 - 1 Onion (diced)

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Beef and Bean Chili
-thumb: assets/images/default.jpg
+thumb: assets/images/beef-and-bean-chili.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - ½ – 1 Italian Sausage (sweet/spicy), chopped into bite sized pieces
 - ½ lb Ground Beef

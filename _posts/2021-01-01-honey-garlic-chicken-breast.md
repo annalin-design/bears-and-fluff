@@ -4,6 +4,7 @@ title: Honey Garlic Chicken Breast
 thumb: assets/images/default.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - 2-3 Chicken Breasts
 - 1 tbsp Olive Oil

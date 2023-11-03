@@ -4,6 +4,7 @@ title: Lamb Dumplings
 thumb: assets/images/dumplings.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - 1 lb Ground Lamb
 - 1/4 tsp Five Spice

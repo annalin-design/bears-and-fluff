@@ -2,6 +2,8 @@
 layout: post
 title: Arugula Almond Pesto
 thumb: assets/images/default.jpg
+tags:
+- Sauce
 ingredients:
 - 150 grams Fresh Arugula
 - 1.25 cups Almonds (toasted)

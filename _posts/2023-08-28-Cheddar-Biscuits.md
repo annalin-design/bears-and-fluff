@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cheese Biscuits
-thumb: assets/images/default.jpg
+thumb: assets/images/cheese-biscuits.jpg
 tags:
 - Bakery
 ingredients:

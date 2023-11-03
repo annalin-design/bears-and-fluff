@@ -4,6 +4,7 @@ title: Italian Meatballs
 thumb: assets/images/italian-meatballs.jpg
 tags:
 - Entree
+- Protein
 ingredients:
 - 1 lb Ground Beef
 - 1 lb Ground Pork
